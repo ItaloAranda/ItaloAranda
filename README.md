@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I'm Italo from Peru!<br><br> I'm IT recruiter, my goal is to match programmers with great opportunities. I work with IT companies to find the perfect match between skills and benefits. <br><br> If you are a technology lover ready for new challenges, connect with me! Together, we will make history in the world of code.<br><br> All we need is code 🚀👩‍💻
+Hi! I'm Italo from Peru!<br><br> I'm IT recruiter, my goal is to match programmers with great opportunities. I work with IT companies to find the perfect match between skills and benefits. <br><br> If you are a software developer ready for new challenges, connect with me! Together, we will make history in the world of code.<br><br> All we need is code 🚀👩‍💻
 
 
 ## 🌐 Socials:
