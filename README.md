@@ -1,5 +1,5 @@
 # 💫 About Me:
-¡Hola, soy Italo desde Perú!<br><br>Como reclutador IT, mi pasión es unir a programadores con oportunidades geniales. Trabajo con empresas innovadoras para encontrar el ajuste perfecto entre habilidades y ambiciones. <br><br>Si eres un amante de la tecnología listo para nuevos desafíos, ¡conéctate conmigo! Juntos, haremos historia en el mundo del código.<br><br>¡Saludos coders! 🚀👩‍💻
+Hi! I'm Italo from Peru!<br><br> I'm IT recruiter, my goal is to match programmers with great opportunities. I work with IT companies to find the perfect match between skills and benefits. <br><br> If you are a technology lover ready for new challenges, connect with me! Together, we will make history in the world of code.<br><br> All we need is code 🚀👩‍💻
 
 
 ## 🌐 Socials:
